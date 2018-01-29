@@ -28,7 +28,7 @@ def alan_kay_is_known_for
         :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
-        },
+        }, programmer_hash[:alan_kay][:known_for]
         :alan_kay => {
           :known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
